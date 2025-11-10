@@ -1,0 +1,19 @@
+{
+	"name": "xcode build server",
+	"version": "0.2",
+	"bspVersion": "2.0",
+	"languages": [
+		"c",
+		"cpp",
+		"objective-c",
+		"objective-cpp",
+		"swift"
+	],
+	"argv": [
+		"/opt/homebrew/bin/xcode-build-server"
+	],
+	"workspace": "/Users/mashu_giga/practice-swift/WeCountryFlag/WeCountryFlag.xcodeproj/project.xcworkspace",
+	"build_root": "/Users/mashu_giga/Library/Developer/Xcode/DerivedData/WeCountryFlag-bksikwuoyomwjfgabxloavxwftwm",
+	"scheme": "WeCountryFlag",
+	"kind": "xcode"
+}

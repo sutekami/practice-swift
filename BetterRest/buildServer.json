@@ -12,8 +12,13 @@
 	"argv": [
 		"/opt/homebrew/bin/xcode-build-server"
 	],
+<<<<<<< HEAD
 	"workspace": "/Users/mashu-giga/practice-swift/BetterRest/BetterRest.xcodeproj/project.xcworkspace",
 	"build_root": "/Users/mashu-giga/Library/Developer/Xcode/DerivedData/BetterRest-dsrddpwsowhhesbrppradymhdkqa",
+=======
+	"workspace": "/Users/mashu_giga/practice-swift/BetterRest/BetterRest.xcodeproj/project.xcworkspace",
+	"build_root": "/Users/mashu_giga/Library/Developer/Xcode/DerivedData/BetterRest-caenstbvivckdvgqegxzbqokxgof",
+>>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
 	"scheme": "BetterRest",
 	"kind": "xcode"
 }

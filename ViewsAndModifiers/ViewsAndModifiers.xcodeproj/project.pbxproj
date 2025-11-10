@@ -7,31 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-<<<<<<< HEAD
-		7F3FEB712EC1E5710078C526 /* BetterRest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetterRest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7F98F9202EBF472500EFE6EF /* ViewsAndModifiers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViewsAndModifiers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		7F3FEB732EC1E5710078C526 /* BetterRest */ = {
-=======
-		7F98F94E2EBF607100EFE6EF /* BetterRest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetterRest.app; sourceTree = BUILT_PRODUCTS_DIR; };
-/* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		7F98F9502EBF607100EFE6EF /* BetterRest */ = {
->>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
+		7F98F9222EBF472500EFE6EF /* ViewsAndModifiers */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = BetterRest;
+			path = ViewsAndModifiers;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-<<<<<<< HEAD
-		7F3FEB6E2EC1E5710078C526 /* Frameworks */ = {
-=======
-		7F98F94B2EBF607100EFE6EF /* Frameworks */ = {
->>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
+		7F98F91D2EBF472500EFE6EF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,33 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-<<<<<<< HEAD
-		7F3FEB682EC1E5710078C526 = {
+		7F98F9172EBF472500EFE6EF = {
 			isa = PBXGroup;
 			children = (
-				7F3FEB732EC1E5710078C526 /* BetterRest */,
-				7F3FEB722EC1E5710078C526 /* Products */,
+				7F98F9222EBF472500EFE6EF /* ViewsAndModifiers */,
+				7F98F9212EBF472500EFE6EF /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		7F3FEB722EC1E5710078C526 /* Products */ = {
+		7F98F9212EBF472500EFE6EF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7F3FEB712EC1E5710078C526 /* BetterRest.app */,
-=======
-		7F98F9452EBF607100EFE6EF = {
-			isa = PBXGroup;
-			children = (
-				7F98F9502EBF607100EFE6EF /* BetterRest */,
-				7F98F94F2EBF607100EFE6EF /* Products */,
-			);
-			sourceTree = "<group>";
-		};
-		7F98F94F2EBF607100EFE6EF /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				7F98F94E2EBF607100EFE6EF /* BetterRest.app */,
->>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
+				7F98F9202EBF472500EFE6EF /* ViewsAndModifiers.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -75,113 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-<<<<<<< HEAD
-		7F3FEB702EC1E5710078C526 /* BetterRest */ = {
+		7F98F91F2EBF472500EFE6EF /* ViewsAndModifiers */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7F3FEB7C2EC1E5720078C526 /* Build configuration list for PBXNativeTarget "BetterRest" */;
+			buildConfigurationList = 7F98F92B2EBF472600EFE6EF /* Build configuration list for PBXNativeTarget "ViewsAndModifiers" */;
 			buildPhases = (
-				7F3FEB6D2EC1E5710078C526 /* Sources */,
-				7F3FEB6E2EC1E5710078C526 /* Frameworks */,
-				7F3FEB6F2EC1E5710078C526 /* Resources */,
-=======
-		7F98F94D2EBF607100EFE6EF /* BetterRest */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 7F98F9592EBF607200EFE6EF /* Build configuration list for PBXNativeTarget "BetterRest" */;
-			buildPhases = (
-				7F98F94A2EBF607100EFE6EF /* Sources */,
-				7F98F94B2EBF607100EFE6EF /* Frameworks */,
-				7F98F94C2EBF607100EFE6EF /* Resources */,
->>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
+				7F98F91C2EBF472500EFE6EF /* Sources */,
+				7F98F91D2EBF472500EFE6EF /* Frameworks */,
+				7F98F91E2EBF472500EFE6EF /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-<<<<<<< HEAD
-				7F3FEB732EC1E5710078C526 /* BetterRest */,
-=======
-				7F98F9502EBF607100EFE6EF /* BetterRest */,
->>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
+				7F98F9222EBF472500EFE6EF /* ViewsAndModifiers */,
 			);
-			name = BetterRest;
+			name = ViewsAndModifiers;
 			packageProductDependencies = (
 			);
-			productName = BetterRest;
-<<<<<<< HEAD
-			productReference = 7F3FEB712EC1E5710078C526 /* BetterRest.app */;
-=======
-			productReference = 7F98F94E2EBF607100EFE6EF /* BetterRest.app */;
->>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
+			productName = ViewsAndModifiers;
+			productReference = 7F98F9202EBF472500EFE6EF /* ViewsAndModifiers.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-<<<<<<< HEAD
-		7F3FEB692EC1E5710078C526 /* Project object */ = {
-			isa = PBXProject;
-			attributes = {
-				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 2610;
-				LastUpgradeCheck = 2610;
-				TargetAttributes = {
-					7F3FEB702EC1E5710078C526 = {
-						CreatedOnToolsVersion = 26.1;
-					};
-				};
-			};
-			buildConfigurationList = 7F3FEB6C2EC1E5710078C526 /* Build configuration list for PBXProject "BetterRest" */;
-=======
-		7F98F9462EBF607100EFE6EF /* Project object */ = {
+		7F98F9182EBF472500EFE6EF /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1630;
 				LastUpgradeCheck = 1630;
 				TargetAttributes = {
-					7F98F94D2EBF607100EFE6EF = {
+					7F98F91F2EBF472500EFE6EF = {
 						CreatedOnToolsVersion = 16.3;
 					};
 				};
 			};
-			buildConfigurationList = 7F98F9492EBF607100EFE6EF /* Build configuration list for PBXProject "BetterRest" */;
->>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
+			buildConfigurationList = 7F98F91B2EBF472500EFE6EF /* Build configuration list for PBXProject "ViewsAndModifiers" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-<<<<<<< HEAD
-			mainGroup = 7F3FEB682EC1E5710078C526;
+			mainGroup = 7F98F9172EBF472500EFE6EF;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 7F3FEB722EC1E5710078C526 /* Products */;
+			productRefGroup = 7F98F9212EBF472500EFE6EF /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7F3FEB702EC1E5710078C526 /* BetterRest */,
-=======
-			mainGroup = 7F98F9452EBF607100EFE6EF;
-			minimizedProjectReferenceProxies = 1;
-			preferredProjectObjectVersion = 77;
-			productRefGroup = 7F98F94F2EBF607100EFE6EF /* Products */;
-			projectDirPath = "";
-			projectRoot = "";
-			targets = (
-				7F98F94D2EBF607100EFE6EF /* BetterRest */,
->>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
+				7F98F91F2EBF472500EFE6EF /* ViewsAndModifiers */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-<<<<<<< HEAD
-		7F3FEB6F2EC1E5710078C526 /* Resources */ = {
-=======
-		7F98F94C2EBF607100EFE6EF /* Resources */ = {
->>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
+		7F98F91E2EBF472500EFE6EF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -191,11 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-<<<<<<< HEAD
-		7F3FEB6D2EC1E5710078C526 /* Sources */ = {
-=======
-		7F98F94A2EBF607100EFE6EF /* Sources */ = {
->>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
+		7F98F91C2EBF472500EFE6EF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -205,11 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-<<<<<<< HEAD
-		7F3FEB7A2EC1E5720078C526 /* Debug */ = {
-=======
-		7F98F9572EBF607200EFE6EF /* Debug */ = {
->>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
+		7F98F9292EBF472600EFE6EF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -261,11 +177,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-<<<<<<< HEAD
-				IPHONEOS_DEPLOYMENT_TARGET = 26.1;
-=======
 				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
->>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -276,11 +188,7 @@
 			};
 			name = Debug;
 		};
-<<<<<<< HEAD
-		7F3FEB7B2EC1E5720078C526 /* Release */ = {
-=======
-		7F98F9582EBF607200EFE6EF /* Release */ = {
->>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
+		7F98F92A2EBF472600EFE6EF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -326,11 +234,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-<<<<<<< HEAD
-				IPHONEOS_DEPLOYMENT_TARGET = 26.1;
-=======
 				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
->>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -340,11 +244,7 @@
 			};
 			name = Release;
 		};
-<<<<<<< HEAD
-		7F3FEB7D2EC1E5720078C526 /* Debug */ = {
-=======
-		7F98F95A2EBF607200EFE6EF /* Debug */ = {
->>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
+		7F98F92C2EBF472600EFE6EF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -363,29 +263,15 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-<<<<<<< HEAD
-				PRODUCT_BUNDLE_IDENTIFIER = mashu.giga.BetterRest;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRING_CATALOG_GENERATE_SYMBOLS = YES;
-				SWIFT_APPROACHABLE_CONCURRENCY = YES;
-				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
-=======
-				PRODUCT_BUNDLE_IDENTIFIER = "com.practice-ios-development.BetterRest";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.practice-ios-development.ViewsAndModifiers";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
->>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-<<<<<<< HEAD
-		7F3FEB7E2EC1E5720078C526 /* Release */ = {
-=======
-		7F98F95B2EBF607200EFE6EF /* Release */ = {
->>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
+		7F98F92D2EBF472600EFE6EF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -404,19 +290,9 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-<<<<<<< HEAD
-				PRODUCT_BUNDLE_IDENTIFIER = mashu.giga.BetterRest;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRING_CATALOG_GENERATE_SYMBOLS = YES;
-				SWIFT_APPROACHABLE_CONCURRENCY = YES;
-				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
-=======
-				PRODUCT_BUNDLE_IDENTIFIER = "com.practice-ios-development.BetterRest";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.practice-ios-development.ViewsAndModifiers";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
->>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -425,45 +301,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-<<<<<<< HEAD
-		7F3FEB6C2EC1E5710078C526 /* Build configuration list for PBXProject "BetterRest" */ = {
+		7F98F91B2EBF472500EFE6EF /* Build configuration list for PBXProject "ViewsAndModifiers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7F3FEB7A2EC1E5720078C526 /* Debug */,
-				7F3FEB7B2EC1E5720078C526 /* Release */,
-=======
-		7F98F9492EBF607100EFE6EF /* Build configuration list for PBXProject "BetterRest" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				7F98F9572EBF607200EFE6EF /* Debug */,
-				7F98F9582EBF607200EFE6EF /* Release */,
->>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
+				7F98F9292EBF472600EFE6EF /* Debug */,
+				7F98F92A2EBF472600EFE6EF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-<<<<<<< HEAD
-		7F3FEB7C2EC1E5720078C526 /* Build configuration list for PBXNativeTarget "BetterRest" */ = {
+		7F98F92B2EBF472600EFE6EF /* Build configuration list for PBXNativeTarget "ViewsAndModifiers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7F3FEB7D2EC1E5720078C526 /* Debug */,
-				7F3FEB7E2EC1E5720078C526 /* Release */,
-=======
-		7F98F9592EBF607200EFE6EF /* Build configuration list for PBXNativeTarget "BetterRest" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				7F98F95A2EBF607200EFE6EF /* Debug */,
-				7F98F95B2EBF607200EFE6EF /* Release */,
->>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
+				7F98F92C2EBF472600EFE6EF /* Debug */,
+				7F98F92D2EBF472600EFE6EF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-<<<<<<< HEAD
-	rootObject = 7F3FEB692EC1E5710078C526 /* Project object */;
-=======
-	rootObject = 7F98F9462EBF607100EFE6EF /* Project object */;
->>>>>>> ab27e1c64955a2d73ffaa06c2a81388303f1ba3f
+	rootObject = 7F98F9182EBF472500EFE6EF /* Project object */;
 }
