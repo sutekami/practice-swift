@@ -1,0 +1,26 @@
+{
+  "" : {
+    "const-values" : "/Users/mashu-giga/practice-swift/WordScramble/build/WordScramble.build/Release-iphoneos/WordScramble.build/Objects-normal/arm64/WordScramble-primary.swiftconstvalues",
+    "dependencies" : "/Users/mashu-giga/practice-swift/WordScramble/build/WordScramble.build/Release-iphoneos/WordScramble.build/Objects-normal/arm64/WordScramble-primary.d",
+    "diagnostics" : "/Users/mashu-giga/practice-swift/WordScramble/build/WordScramble.build/Release-iphoneos/WordScramble.build/Objects-normal/arm64/WordScramble-primary.dia",
+    "emit-module-dependencies" : "/Users/mashu-giga/practice-swift/WordScramble/build/WordScramble.build/Release-iphoneos/WordScramble.build/Objects-normal/arm64/WordScramble-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mashu-giga/practice-swift/WordScramble/build/WordScramble.build/Release-iphoneos/WordScramble.build/Objects-normal/arm64/WordScramble-primary-emit-module.dia",
+    "pch" : "/Users/mashu-giga/practice-swift/WordScramble/build/WordScramble.build/Release-iphoneos/WordScramble.build/Objects-normal/arm64/WordScramble-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/mashu-giga/practice-swift/WordScramble/build/WordScramble.build/Release-iphoneos/WordScramble.build/Objects-normal/arm64/WordScramble-primary.swiftdeps"
+  },
+  "/Users/mashu-giga/practice-swift/WordScramble/WordScramble/ContentView.swift" : {
+    "index-unit-output-path" : "/WordScramble.build/Release-iphoneos/WordScramble.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/mashu-giga/practice-swift/WordScramble/build/WordScramble.build/Release-iphoneos/WordScramble.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/mashu-giga/practice-swift/WordScramble/build/WordScramble.build/Release-iphoneos/WordScramble.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/mashu-giga/practice-swift/WordScramble/WordScramble/WordScrambleApp.swift" : {
+    "index-unit-output-path" : "/WordScramble.build/Release-iphoneos/WordScramble.build/Objects-normal/arm64/WordScrambleApp.o",
+    "llvm-bc" : "/Users/mashu-giga/practice-swift/WordScramble/build/WordScramble.build/Release-iphoneos/WordScramble.build/Objects-normal/arm64/WordScrambleApp.bc",
+    "object" : "/Users/mashu-giga/practice-swift/WordScramble/build/WordScramble.build/Release-iphoneos/WordScramble.build/Objects-normal/arm64/WordScrambleApp.o"
+  },
+  "/Users/mashu-giga/practice-swift/WordScramble/build/WordScramble.build/Release-iphoneos/WordScramble.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/WordScramble.build/Release-iphoneos/WordScramble.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/mashu-giga/practice-swift/WordScramble/build/WordScramble.build/Release-iphoneos/WordScramble.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/mashu-giga/practice-swift/WordScramble/build/WordScramble.build/Release-iphoneos/WordScramble.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}
